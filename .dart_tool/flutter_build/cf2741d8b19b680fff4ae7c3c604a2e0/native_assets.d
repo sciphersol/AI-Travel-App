@@ -1,0 +1,1 @@
+ D:\\AndriodStudioProjects\\ai_travel_app\\.dart_tool\\flutter_build\\cf2741d8b19b680fff4ae7c3c604a2e0\\native_assets.yaml: 

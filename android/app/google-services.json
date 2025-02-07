@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599753413102",
+    "project_id": "ai-travel-app-52fbf",
+    "storage_bucket": "ai-travel-app-52fbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599753413102:android:5a225e979ab87c1185beff",
+        "android_client_info": {
+          "package_name": "com.example.ai_travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599753413102-g5sa3al45i4ogglu8giijg62jetnorpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ai_travel_app",
+            "certificate_hash": "8c67e902d25ca528665b10c35d19967dd2df69b2"
+          }
+        },
+        {
+          "client_id": "599753413102-rk4f7snqhg7qivounp7jq15rluci70i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5XHQPvnX6oFMU502VQxVVbpoMImTuN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599753413102-icllrcuc10ntn1lc6odffn4s41ea8vpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
